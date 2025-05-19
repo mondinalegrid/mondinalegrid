@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello
+👋 Hi, I'm Mon
+
+I'm a full-stack developer with a passion for building robust, scalable, and user-centric applications. I specialize in both backend and frontend development, with hands-on experience across a broad range of technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mondin-francisco-alegrid) 
